@@ -1,5 +1,7 @@
 # Python Lab
 
+[View the full project document with screenshots on Google Docs](https://docs.google.com/document/d/1T9YalcOcqbxsutCR89xmwgb1nhUWtKDG09Gd9UqySPY/edit?usp=sharing)
+
 ## Objective
 This project is to create an algorithm that uses Python code to check whether ip addresses on the remove list are also on the allow list. The code should ensure that those addresses that are on the remove list are deleted from the allow list.
 
